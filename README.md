@@ -51,36 +51,6 @@ TRACE (Targeted Reconnaissance for Advanced Content Exploitation) is a cybersecu
 
 ---
 
-## 🛠️ Key Features
-
-- Project creation, import, export, lock/unlock
-- Web crawling and directory brute-forcing
-- HTTP request management and proxy routing
-- SQL Injection detection and database enumeration
-- AI-powered username/password generation
-- Real-time progress tracking and visualizations (tree graph)
-- Exporting results in various formats (CSV/XML)
-
----
-
-## Tech Stack
-
-- **Frontend**: SvelteKit v2.16.1 (compatible with Svelte v5.19.2)
-- **Backend**: Python 3.14 (FastAPI)
-- **Database**: Neo4j 5.26.1
-- **UI Library**: shadcn-svelte 0.14.0
-
----
-
-## Minimum System Requirements
-
-- 4-core 2.5GHz processor
-- 8GB RAM
-- 10GB free storage
-- Neo4j running locally
-
----
-
 ## License
 
 This project is part of an academic capstone and is not licensed for commercial use. Contact the TRACE team for permissions or inquiries.
