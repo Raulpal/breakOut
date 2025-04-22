@@ -3,9 +3,9 @@
 
 A full-stack cybersecurity tool built with FastAPI (backend) and SvelteKit (frontend).
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📦 Backend (FastAPI)
+### Backend (FastAPI)
 
 1. Navigate to the backend folder:
    ```bash
@@ -26,7 +26,7 @@ A full-stack cybersecurity tool built with FastAPI (backend) and SvelteKit (fron
 
 ---
 
-### 🎨 Frontend (SvelteKit)
+### Frontend (SvelteKit)
 
 1. Navigate to the frontend folder:
    ```bash
