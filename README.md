@@ -88,27 +88,6 @@ docker --version
 docker-compose --version
 ```
 
-### 4. Download and Configure
-
-- Save your `docker-compose.yml` file to a folder, e.g. `C:\Projects\docker-compose-demo`
-
-**Required updates to `docker-compose.yml`:**
-
-```yaml
-services:
-  apache2:
-    platform: linux/arm64
-
-  dvwa:
-    platform: linux/amd64
-
-  dvwa-db:
-    platform: linux/amd64
-    volumes:
-      - dvwa-db-data:/var/lib/mysql
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
-```
-
 ### 5. File Setup (Required)
 
 - Create `./apache2/` directory and `nginx.conf` file in the same folder as your `.yml`
@@ -117,7 +96,6 @@ services:
 ### 6. Launch Docker
 
 ```bash
-docker pull --platform linux/amd64 vulnerables/web-dvwa
 docker-compose up -d
 docker ps
 ```
