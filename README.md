@@ -68,7 +68,7 @@ Before running TRACE, make sure the following are installed on your system:
 
 ---
 
-## 🐳 Running the DVWA Stack with Docker (Optional)
+## Running the DVWA Stack with Docker
 
 1. Make sure Docker and Docker Compose are installed.
 2. Place the following files in the same directory as your `docker-compose.yaml`:
