@@ -9,6 +9,17 @@ TRACE (Targeted Reconnaissance for Advanced Content Exploitation) is a cybersecu
 
 ## Getting Started
 
+## Prerequisites
+
+Before running TRACE, make sure the following are installed on your system:
+
+- [Python 3.8+](https://www.python.org/downloads/)
+- [Node.js (v16 or higher)](https://nodejs.org/)
+- [npm (Node Package Manager)](https://www.npmjs.com/)
+- [SvelteKit](https://kit.svelte.dev/docs/installation) (installed via `npm install`)
+- [Git](https://git-scm.com/)
+- [Neo4j Desktop or Server](https://neo4j.com/download/) (for database support)
+
 ### Backend (FastAPI)
 
 1. Navigate to the backend folder:
