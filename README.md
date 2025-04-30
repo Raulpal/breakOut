@@ -46,7 +46,7 @@ This installs and runs:
 
 
 
-### Backend (FastAPI)
+#### Backend (FastAPI)
 
 ```bash
 cd backEnd
@@ -58,7 +58,7 @@ uvicorn traceMain:app --reload
 
 ---
 
-### Frontend (SvelteKit)
+#### Frontend (SvelteKit)
 
 ```bash
 cd trace-app
@@ -71,7 +71,7 @@ npm run dev
 
 ---
 
-### DVWA Stack with Docker
+#### DVWA Stack with Docker
 
 1. **Install Docker Desktop**  
    Ensure WSL2 or Hyper-V is enabled (Windows).
