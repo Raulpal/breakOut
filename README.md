@@ -42,7 +42,7 @@ This installs and runs:
 
 ---
 
-### 🔨 Option 2: Manual Setup (Optional)
+### Option 2: Manual Setup (Optional)
 
 
 
@@ -71,7 +71,7 @@ npm run dev
 
 ---
 
-### DVWA Stack with Docker (Optional)
+### DVWA Stack with Docker
 
 1. **Install Docker Desktop**  
    Ensure WSL2 or Hyper-V is enabled (Windows).
