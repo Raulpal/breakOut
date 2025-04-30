@@ -24,7 +24,7 @@ Ensure the following are installed:
 
 ## Getting Started
 
-### 🔧 Option 1: Run Everything Automatically
+### Option 1: Run Everything Automatically
 
 Use the provided installer script to set up and launch everything at once:
 
@@ -36,7 +36,7 @@ This installs and runs:
 
 - Backend (FastAPI)
 - Frontend (SvelteKit)
-- Optional Docker services (DVWA, Apache, NGINX)
+- Docker services (DVWA, Apache, NGINX)
 
 > Only use the manual steps below if you prefer to configure each part yourself.
 
