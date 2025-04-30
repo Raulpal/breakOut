@@ -105,7 +105,8 @@ docker ps
 - Apache: [http://localhost:8081](http://localhost:8081)  
 - NGINX: [http://localhost](http://localhost)
 
-7. **Manage Docker Services**
+---
+### 7. **Manage Docker Services**
 
 ```bash
 docker-compose down
