@@ -99,7 +99,7 @@ docker-compose up -d
 docker ps
 ```
 ---
-6. **Access Services**
+### 6. **Access Services**
 
 - DVWA: [http://localhost:8080](http://localhost:8080)  
 - Apache: [http://localhost:8081](http://localhost:8081)  
