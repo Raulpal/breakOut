@@ -8,7 +8,21 @@ A full-stack cybersecurity tool built with FastAPI (backend) and SvelteKit (fron
 
 ---
 
-## 🚀 Getting Started
+#### Prerequisites
+
+Ensure the following are installed:
+
+- [Python 3.8+](https://www.python.org/downloads/)
+- [Node.js (v16 or higher)](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [SvelteKit](https://kit.svelte.dev/docs/installation)
+- [Git](https://git-scm.com/)
+- [Neo4j Desktop or Server](https://neo4j.com/download/)
+- [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop) (WSL2 or Hyper-V enabled)
+
+---
+
+## Getting Started
 
 ### 🔧 Option 1: Run Everything Automatically
 
@@ -30,19 +44,7 @@ This installs and runs:
 
 ### 🔨 Option 2: Manual Setup (Optional)
 
-#### Prerequisites
 
-Ensure the following are installed:
-
-- [Python 3.8+](https://www.python.org/downloads/)
-- [Node.js (v16 or higher)](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-- [SvelteKit](https://kit.svelte.dev/docs/installation)
-- [Git](https://git-scm.com/)
-- [Neo4j Desktop or Server](https://neo4j.com/download/)
-- [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop) (WSL2 or Hyper-V enabled)
-
----
 
 ### Backend (FastAPI)
 
