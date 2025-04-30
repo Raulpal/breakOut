@@ -98,7 +98,7 @@ docker-compose --version
 docker-compose up -d
 docker ps
 ```
-
+---
 6. **Access Services**
 
 - DVWA: [http://localhost:8080](http://localhost:8080)  
