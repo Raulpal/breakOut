@@ -9,12 +9,16 @@ This repository contains data and analysis code for a three-phase study assessin
 
 ## Repository Structure
 ```
-├── Phase 0.csv                # Baseline survey responses (before any intervention)
-├── Phase 1.csv                # Post-intervention survey responses (immediately after training)
-├── Phase 2.csv                # Follow-up survey responses (delayed post-test)
-├── README.md                  # Project overview and instructions (this file)
-├── Team_Revamped_Final_Project.ipynb  # Jupyter notebook with data analysis and visualizations
-└── assets/                    # (Optional) Supporting materials (slides, diagrams, etc.)
+├── Analysis                   # Analysis scripts and outputs
+│   ├── 0                      # Phase 0 analyses
+│   ├── 1                      # Phase 1 analyses
+│   ├── 2                      # Phase 2 analyses
+│   └── Compare                # Cross-phase comparison analyses
+├── Data                       # Raw and processed data files
+│   ├── Crafted_Questions      # Survey question definitions and templates
+│   └── Export_CSV             # Exported CSV files for each phase
+├── README.md                  # Project overview (this file)
+└── Team_Revamped_Final_Project.ipynb  # Jupyter notebook with data analysis and visualizations
 ```
 
 ## Data Description
