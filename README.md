@@ -14,21 +14,19 @@ This repository contains data and analysis code for a three-phase study assessin
 │   ├── 1                      # Phase 1 analyses
 │   ├── 2                      # Phase 2 analyses
 │   └── Compare                # Cross-phase comparison analyses
-├── Data                       # Raw and processed data files
-│   ├── Crafted_Questions      # Survey question definitions and templates
+├── Data                       # data files
+│   ├── Crafted_Questions      # Survey question for phase 0-2
 │   └── Export_CSV             # Exported CSV files for each phase
-├── README.md                  # Project overview (this file)
-└── Team_Revamped_Final_Project.ipynb  # Jupyter notebook with data analysis and visualizations
+├── README.md                  # Project overview 
+└── Team_Revamped_Final_Project.ipynb  # Google Colab notebook with data analysis and visualizations
 ```
 
 ## Data Description
 Three CSV files of responses from middle school students, corresponding to each phase of the study.
 
-> **Note:** University of Texas at El Paso class project only.
 
 ## License
-This work is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
+University of Texas at El Paso class project only
 ---
 
 *Last updated: May 2025*
