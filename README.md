@@ -29,4 +29,3 @@ Three CSV files of responses from middle school students, corresponding to each 
 University of Texas at El Paso class project only
 ---
 
-*Last updated: May 2025*
